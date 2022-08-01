@@ -1,4 +1,4 @@
-name: final_project
+name: finalproject
 channels:
   - conda-forge
   - defaults
@@ -16,4 +16,4 @@ dependencies:
   - rasterstats
   - rioxarray 
   
-prefix: C:\ProgramData\Anaconda3\envs\final_project
+prefix: C:\ProgramData\Anaconda3\envs\finalproject
