@@ -1,0 +1,19 @@
+name: finalproject
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - rasterio
+  - gdal
+  - jupyter
+  - sentinelhub
+  - python=3.10
+  - folium
+  - richdem
+  - numpy
+  - rasterio
+  - rasterstats
+  - rioxarray 
+  
+prefix: C:\ProgramData\Anaconda3\envs\finalproject
